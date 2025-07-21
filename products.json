@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Смарт-годинник",
+    "price": "899",
+    "image": "https://via.placeholder.com/250x200?text=Smartwatch"
+  },
+  {
+    "name": "Бездротові навушники",
+    "price": "599",
+    "image": "https://via.placeholder.com/250x200?text=Earbuds"
+  },
+  {
+    "name": "Геймерська мишка",
+    "price": "349",
+    "image": "https://via.placeholder.com/250x200?text=Mouse"
+  }
+]
